@@ -20,10 +20,10 @@ An AI-powered full-stack web application that helps users find suitable rental p
 
 ### Frontend
 - React.js
-- Tailwind CSS
 - JavaScript
-- Redux
 - Axios
+- Tailwind CSS
+- Redux
 
 ### Backend
 - Node.js
@@ -43,7 +43,7 @@ An AI-powered full-stack web application that helps users find suitable rental p
 
 Google Gemini is integrated into the application to analyze tenant preferences and property information.
 
-The system generates compatibility scores and personalized recommendations to help tenants find suitable rental properties and flatmates.
+The system generates compatibility scores and personalized recommendations to help tenants find suitable rental properties and compatible flatmates.
 
 ## 📁 Project Structure
 
@@ -68,4 +68,5 @@ rent-flatmate-finder/
 │   │   └── utils/
 │   └── package.json
 │
-└── .gitignore
+├── .gitignore
+└── README.md
